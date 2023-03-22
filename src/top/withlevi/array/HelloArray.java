@@ -8,5 +8,6 @@ package top.withlevi.array;
 public class HelloArray {
     public static void main(String[] args) {
         System.out.println("Hello Array");
+        System.out.println("Hello Array2");
     }
 }
