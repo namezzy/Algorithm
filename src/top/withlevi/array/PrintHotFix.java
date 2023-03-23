@@ -9,5 +9,6 @@ public class PrintHotFix {
     public static void main(String[] args) {
         System.out.println("This is hotfix-March,23 2023");
         System.out.println("master fix");
+        System.out.println("hot fix");
     }
 }
