@@ -8,5 +8,6 @@ package top.withlevi.array;
 public class PrintHotFix {
     public static void main(String[] args) {
         System.out.println("This is hotfix-March,23 2023");
+        System.out.println("hot fix");
     }
 }
